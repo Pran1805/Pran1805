@@ -80,7 +80,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pran1805&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-trophies.vercel.app/?username=Pran1805&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
@@ -105,15 +105,21 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Profile Summary
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pran1805/Pran1805/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pran1805/Pran1805/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Pran1805/Pran1805/output/github-snake-dark.svg" />
-</picture>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pran1805&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pran1805&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pran1805&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pran1805&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
